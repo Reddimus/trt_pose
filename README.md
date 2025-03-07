@@ -78,6 +78,6 @@ There are a couple of human pose estimation models pre-trained on the MSCOCO dat
 | resnet18_baseline_att_224x224_A | 22 | [download (81MB)](./tasks/human_pose/resnet18_baseline_att_224x224_A_epoch_249.pth) |
 | densenet121_baseline_att_256x256_B | 12 | [download (84MB)](./tasks/human_pose/densenet121_baseline_att_256x256_B_epoch_160.pth) |
 
-Open and follow the [live_demo.ipynb](tasks/human_pose/live_demo.ipynb) notebook
+Open and follow the [live_demo.ipynb](tasks/human_pose/live_demo.ipynb)  notebook (VS Code Jupyter extension v2023.9.1102792234)
 
 > You may need to modify the notebook, depending on which model you use
