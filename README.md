@@ -64,7 +64,7 @@ To get started with trt_pose, follow these steps.
 Check if the `trt_pose` repository is already installed in the `Documents` directory. If not, install it using the following commands:
 
 ```python
-git clone https://github.com/NVIDIA-AI-IOT/trt_pose
+git clone https://github.com/Reddimus/trt_pose.git
 cd trt_pose
 sudo python3 setup.py install
 ```
